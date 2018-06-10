@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "173008961966",
+    "firebase_url": "https://quizgameonline.firebaseio.com",
+    "project_id": "quizgameonline",
+    "storage_bucket": "quizgameonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173008961966:android:97a2633781ff3dcd",
+        "android_client_info": {
+          "package_name": "com.shingagame.tuantt6393.quizgameonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173008961966-6u3auil950o5qikmebfo9ikbvpe3s5f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shingagame.tuantt6393.quizgameonline",
+            "certificate_hash": "0f2bbb1d71b519b06fa934e12be58a6fcc809699"
+          }
+        },
+        {
+          "client_id": "173008961966-73lm5gqd4pk7d7vu5pk82fd1r77grq96.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "173008961966-73lm5gqd4pk7d7vu5pk82fd1r77grq96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_kZBp8WT7xIpb30J0PDhYtOm__Z6NcAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173008961966-73lm5gqd4pk7d7vu5pk82fd1r77grq96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
